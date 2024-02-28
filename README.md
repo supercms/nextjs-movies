@@ -1,0 +1,2 @@
+# nextjs-movies
+nomad study
